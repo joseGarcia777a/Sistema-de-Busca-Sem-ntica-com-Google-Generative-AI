@@ -1,9 +1,9 @@
-#Sistema de Busca Semântica com Google Generative AI Descrição
+# Sistema de Busca Semântica com Google Generative AI Descrição
 
 Este repositório contém um exemplo de sistema de busca semântica simples construído com o Google Generative AI Studio. O sistema utiliza embeddings de texto para encontrar o documento mais relevante para uma determinada consulta.
 
 
-##Instalação
+## Instalação
 
 1. Clonar o repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
